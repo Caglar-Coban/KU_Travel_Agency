@@ -1,0 +1,5 @@
+------------------------------------------------
+Username:admin - Password:admin - Type:Admin - Id:0
+Username:Çağlar - Password:123C - Type:Customer - Id:1
+Username:Poyraz - Password:123P - Type:Customer - Id:2
+Username:Seher - Password:123S - Type:Customer - Id:3

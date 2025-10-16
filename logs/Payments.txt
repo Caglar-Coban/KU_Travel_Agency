@@ -1,0 +1,9 @@
+Date-Time :2024-12-29_02:28:07; User :Çağlar; Payment :1097.3389090909093; Booking type:TravelPackage booking; Action :Make Reservation; Cost :1005.8940000000001; Airline :Pegasus Airlines; Hotelname :Hilton; Taxi type :Yellow Taxi; Taxi City :Dublin
+Date-Time :2024-12-29_02:28:19; User :Çağlar; Payment :2102.7839999999997; Booking type:Flight Booking; Action :Make Reservation; Cost :1752.32; Airline :Turkish Airlines; Hotelname :; Taxi type :; Taxi City :
+Date-Time :2024-12-29_02:28:41; User :Çağlar; Payment :1471.32; Booking type:Hotel Reservation; Action :Make Reservation; Cost :1226.1; Airline :; Hotelname :Marriott; Taxi type :; Taxi City :
+Date-Time :2024-12-29_02:29:13; User :Poyraz; Payment :751.8359999999999; Booking type:Flight Booking; Action :Make Reservation; Cost :626.53; Airline :FlyDubai; Hotelname :; Taxi type :; Taxi City :
+Date-Time :2024-12-29_02:29:23; User :Poyraz; Payment :1526.9272363636362; Booking type:TravelPackage booking; Action :Make Reservation; Cost :1399.6833; Airline :Pegasus Airlines; Hotelname :Marriott; Taxi type :Yellow Taxi; Taxi City :Rome
+Date-Time :2024-12-29_02:29:46; User :Poyraz; Payment :299.544; Booking type:Hotel Reservation; Action :Make Reservation; Cost :249.62; Airline :; Hotelname :Marriott; Taxi type :; Taxi City :
+Date-Time :2024-12-29_02:30:23; User :Seher; Payment :765.468; Booking type:Flight Booking; Action :Make Reservation; Cost :637.89; Airline :Pegasus Airlines; Hotelname :; Taxi type :; Taxi City :
+Date-Time :2024-12-29_02:30:57; User :Seher; Payment :2227.09236; Booking type:TravelPackage booking; Action :Make Reservation; Cost :1855.9103; Airline :FlyAsia; Hotelname :Marriott; Taxi type :Black Taxi; Taxi City :Brussels
+Date-Time :2024-12-29_18:45:30; User :Seher; Payment :2111.304; Booking type:Flight Booking; Action :Make Reservation; Cost :1759.42; Airline :AnadoluJet; Hotelname :; Taxi type :; Taxi 
