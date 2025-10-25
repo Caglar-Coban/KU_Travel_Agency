@@ -48,7 +48,6 @@ All data is stored in `.txt` files for persistence.
 |---------|----------|
 | `/data` | Stores final travel packages and entity data |
 | `/logs` | Contains logs for reservations, payments, cancellations, modifications, and login actions |
-| `/bin`  | Compiled Java class files |
 | `/src`  | Main source code files |
 
 Example log files:
